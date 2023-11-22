@@ -6,9 +6,22 @@ This is a repository for simple technical test.
 
 1. Clone this repository to your local system:
 
-   ```bash
-   git clone https://github.com/ChristopherIndraBhagaskara/simple-financial-statement.git
-   ```
+```bash
+
+git clone https://github.com/ChristopherIndraBhagaskara/simple-financial-statement.git
+
+```
+
+## Users
+
+### Guest
+
+- No login required
+
+### Auth
+
+- Username: Feon | Password: 1
+- Username: Vira | Password: 1
 
 ## Technologies Used
 
